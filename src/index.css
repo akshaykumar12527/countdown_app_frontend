@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+ul.ant-list-items {
+  max-height: 500px;
+  overflow-y: auto;
+}
