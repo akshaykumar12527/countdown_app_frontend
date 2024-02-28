@@ -2,7 +2,7 @@
   "name": "countdown_app",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "https://akshaykumar12527.github.io/countdown_app_frontend",
+  "homepage" : "https://akshaykumar12527.github.io/countdown",
   "dependencies": {
     "@ant-design/icons": "^5.3.0",
     "@testing-library/jest-dom": "^5.17.0",
