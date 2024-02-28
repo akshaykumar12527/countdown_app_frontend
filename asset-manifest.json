@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.770b196d.css",
-    "main.js": "/static/js/main.e57f1418.js",
-    "static/js/453.cc2b24f2.chunk.js": "/static/js/453.cc2b24f2.chunk.js",
-    "index.html": "/index.html",
-    "main.770b196d.css.map": "/static/css/main.770b196d.css.map",
-    "main.e57f1418.js.map": "/static/js/main.e57f1418.js.map",
-    "453.cc2b24f2.chunk.js.map": "/static/js/453.cc2b24f2.chunk.js.map"
+    "main.css": "/countdown_app_frontend/static/css/main.770b196d.css",
+    "main.js": "/countdown_app_frontend/static/js/main.ff82a23d.js",
+    "static/js/453.cc2b24f2.chunk.js": "/countdown_app_frontend/static/js/453.cc2b24f2.chunk.js",
+    "index.html": "/countdown_app_frontend/index.html",
+    "main.770b196d.css.map": "/countdown_app_frontend/static/css/main.770b196d.css.map",
+    "main.ff82a23d.js.map": "/countdown_app_frontend/static/js/main.ff82a23d.js.map",
+    "453.cc2b24f2.chunk.js.map": "/countdown_app_frontend/static/js/453.cc2b24f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.770b196d.css",
-    "static/js/main.e57f1418.js"
+    "static/js/main.ff82a23d.js"
   ]
 }
